@@ -8,4 +8,11 @@ compile the main.c file
 gcc main.c -o main
 ```
 
+## Run the project
+
+``` bash
+./main
+```
+
+
 
